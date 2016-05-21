@@ -1,1 +1,1 @@
-"# singletonJS" 
+"# singletonJS ejemplo del programa" 
